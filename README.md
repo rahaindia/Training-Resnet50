@@ -1,2 +1,3 @@
 # Training-Resnet50
-How to train Resnet50 network to classification image.
+Hello everyone Resnet is a best classification model.
+Td. I will tutorial how to train Resnet50 network to classification Check X-ray image.
